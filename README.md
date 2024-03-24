@@ -19,7 +19,7 @@ To run the data analysis tasks:
 - PySpark overview. PySpark Overview - PySpark master documentation. (n.d.). [https://spark.apache.org/docs/latest/api/python/](https://spark.apache.org/docs/latest/api/python/)
 
 ### Acknowledgments
-Other resourceful ideas gotten from Class, Tutors, TA, and other students.
+Other resourceful ideas gotten from Class, Tutors, TAs, and other students.
 
 ---
 
